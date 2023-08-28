@@ -17,6 +17,9 @@ class Rec {
 
 
     public class Fact {
+
+
+
         public static void main(String[] args) {
             //int fact=Integer.MAX_VALUE;
 //            int fact = 1;
